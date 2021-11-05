@@ -153,12 +153,13 @@ button:hover{
         width: 50%;
     }
     .title-container div{
-        background-size: cover;
-        /* background-repeat: no-repeat; */
         height:40vh;
         width: 100%;
         margin:1% 0;
+        background-size: 250%;
+        background-repeat: no-repeat;
     }
+
     .title-container hr{
         width:100%;
     }
@@ -168,7 +169,6 @@ button:hover{
         padding: 1%;
     }
     .artists-container{
-        /* flex-flow: wrap column; */
         flex-wrap: wrap;
         align-items: center;
         margin-bottom: 15%;
@@ -192,5 +192,4 @@ button:hover{
         font-size: 1rem;
         margin: 4% auto;
     }
-
 }
