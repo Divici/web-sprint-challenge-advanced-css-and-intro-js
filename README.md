@@ -23,11 +23,17 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
+    It is designing your web page in a way that it is accessible to all kinds of people, such as deaf or blind people.
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
     You could use semantic html, use alt tags for your images, and use responsive styling especially for font sizes.
 
 3. How would you explain the concept of a variable to someone new to programming?
+    A variable is something used to store data to be used or changed. An example of this would be your score in a video game that gets updated continuously.
+
 4. What is the purpose of using functions in code?
+    They are blocks of code that do a task that can be reused over and over again just using one line of code.
+    
 5. How do you access a key inside of an object inside of an array?
     You would access the object by the index in the array and then in a similar manner, access the key in the object. this looks like:
         array[index of object].key
